@@ -28,7 +28,7 @@ export default function PreguntasFrecuentes () {
                     aria-expanded='true'
                     aria-controls='collapseOne'
                   >
-                    Necesito estudiar teoria antes de tomar las calses?
+                    Necesito estudiar teoría antes de tomar las calses?
                   </button>
                 </h2>
                 <div
@@ -42,9 +42,9 @@ export default function PreguntasFrecuentes () {
                     manejo.{' '}
                     <strong>
                       Pero es recomendable que estudies durante todo el proceso
-                      de aprendizaje
+                      de aprendizaje.
                     </strong>{' '}
-                    Te proveeremos del material teorico para que puedas
+                    Te daremos del material teórico para que puedas
                     estudiar.
                   </div>
                 </div>
